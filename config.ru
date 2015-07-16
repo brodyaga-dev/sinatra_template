@@ -5,4 +5,4 @@ Bundler.require
 
 require './app/base.rb'
 
-run BaseTemplate
+run BaseTemplate.new
